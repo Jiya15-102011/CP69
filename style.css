@@ -1,0 +1,13 @@
+#contact iframe
+{
+    width: 100%;
+}
+.x{
+    border:1px solid lightgray;
+}
+.x img{
+    width: 100%;
+}
+.x h5,.x p{
+    margin:20px;
+}
